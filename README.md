@@ -1,4 +1,4 @@
-# Helpdesk API
+# MVC API
 
 API desenvolvida em Flask utilizando arquitetura em camadas, SQLAlchemy e banco de dados SQLite.
 
